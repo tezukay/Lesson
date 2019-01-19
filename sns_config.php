@@ -1,5 +1,5 @@
 <?php
 $host = "localhost";
-$username = "tezuka";
-$password = "tezuka";
+$username = "root";
+$password = "root";
 $dbname = "sns_user";
